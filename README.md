@@ -1,6 +1,7 @@
 # test
 
 ### 이 repository는,
+
 * remote repository의 생성
 * local로 clone
 * local에서 수정
